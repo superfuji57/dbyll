@@ -1,6 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 10 # pagination based on number of posts
+paginate: 5 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
@@ -12,18 +12,18 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Andy Won
 
-description: Stylish Jekyll Theme
+description: Chill ass dude
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name:
+  email: unlv.elements@gmail.com
+  github: superfuji57
+  twitter: andy_juan
+  pinterest:
+  linkedin: andy-won
+  bio: Coffee in; sarcasm out
+  email_md5: 
 
 rss_path: feed.xml
 categories_path: categories.html
